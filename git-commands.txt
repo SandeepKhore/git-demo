@@ -22,3 +22,5 @@ git merge [branchName]
 push changes to remote branch -> create pull request -> merge changes -> git checkout [branchName] -> git pull [remoteName] [branchName]
 
 
+https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/
+https://education.github.com/git-cheat-sheet-education.pdf
