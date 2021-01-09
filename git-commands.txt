@@ -16,3 +16,9 @@ git commit -m "{message}"
 
 // push changes to remote branch
 git push [remoteName] [branchName]
+
+// merge branches
+git merge [branchName]
+push changes to remote branch -> create pull request -> merge changes -> git checkout [branchName] -> git pull [remoteName] [branchName]
+
+
