@@ -1,2 +1,18 @@
+// only one time configuration
 git init // to initailise git project
 git remote add [origin] [remoteUrl]
+
+
+// create branch
+git branch [branchName]
+git checkout -b [branchName]
+
+// to add the files in local repo
+git add [fileName]
+git add .
+
+// commit branch (create version)
+git commit -m "{message}"
+
+// push changes to remote branch
+git push [remoteName] [branchName]
