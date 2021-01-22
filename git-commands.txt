@@ -12,7 +12,7 @@ git add [fileName]
 git add .
 
 // commit branch (create version)
-git commit -m "{message}"
+git commit -m "{message}"sss
 
 // push changes to remote branch
 git push [remoteName] [branchName]
